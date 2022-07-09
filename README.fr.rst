@@ -38,9 +38,9 @@ Parmi les fonctionnalités :
 Crédit
 ======
 
-- Les tests de kanji sont basés sur `kanjidic <http://www.edrdg.org/kanjidic/kanjidic.html>`_.
+- Les tests de kanji sont basés sur `kanjidic <https://www.edrdg.org/wiki/index.php/KANJIDIC_Project>`_.
 - Les tests de vocabulaire sont basés sur `JMdict <http://www.edrdg.org/jmdict/j_jmdict.html>`_.
-- Les données de similarité des kanji viennent d'`une étude du Dr. Lars Yencken <http://lars.yencken.org/datasets/phd/>`_.
+- Les données de similarité des kanji viennent d'`une étude du Dr. Lars Yencken <https://lars.yencken.org/datasets/kanji-confusion/>`_.
 - La base de données de composition et de tracé des kanji vient de `KanjiVG <https://kanjivg.tagaini.net/>`_.
 - Les données de classification JLPT vient de `Jonathan Waller <https://www.tanos.co.uk/jlpt/>`_.
 - La police de caractères de l'icône de l'application est `Nagayama Kai <https://www.freejapanesefont.com/nagayama-kai-calligraphy-font-download/>`_.

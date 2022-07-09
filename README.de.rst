@@ -38,9 +38,9 @@ Beinhaltete Funktionen:
 Danksagung
 ==========
 
-- Die Kanji Quiz basieren auf `kanjidic <http://www.edrdg.org/kanjidic/kanjidic.html>`_.
+- Die Kanji Quiz basieren auf `kanjidic <https://www.edrdg.org/wiki/index.php/KANJIDIC_Project>`_.
 - Die Vokabel Quiz basieren auf `JMdict <http://www.edrdg.org/jmdict/j_jmdict.html>`_.
-- Die Kanji Ähnlichkeits-Daten stammem aus `einer Studio von Dr. Lars Yencken <http://lars.yencken.org/datasets/phd/>`_.
+- Die Kanji Ähnlichkeits-Daten stammem aus `einer Studio von Dr. Lars Yencken <https://lars.yencken.org/datasets/kanji-confusion/>`_.
 - Die Kanji Aufbau- und Strichfolge-Datenbank stammt von `KanjiVG <https://kanjivg.tagaini.net/>`_.
 - Die JLPT Einteilung stammt von `Jonathan Waller <https://www.tanos.co.uk/jlpt/>`_.
 - App Symbol-Schriftart ist `Nagayama Kai <https://www.freejapanesefont.com/nagayama-kai-calligraphy-font-download/>`_.
