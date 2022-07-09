@@ -2,72 +2,81 @@
 Kakugo
 ======
 
-Kakugo is an application that helps learning Japanese. It includes multiple tests to memorize hiragana, katakana, and kanji and adapts to the user's learning pace.
+Kakugo - это приложение, которое помогает учить Японский язык.
+Оно включает множество тестов для запоминания хираганы, катаканы и кандзи, и подстраивается под темп обучения пользователя.
 
-- `Download on F-Droid <https://f-droid.org/packages/org.kaqui/>`_
-- `Download on Google Play <https://play.google.com/store/apps/details?id=org.kaqui>`_
+- `Скачать из F-Droid <https://f-droid.org/packages/org.kaqui/>`_
+- `Скачать из Play Маркета <https://play.google.com/store/apps/details?id=org.kaqui>`_
 
-One of the biggest difficulty with learning Japanese is memorizing kanji and vocabulary. While learning them by just reading and writing them everyday may work, the more kanji you know, the harder it gets and the more time it takes to revise them all. Proper tools can help you memorize these huge amounts of knowledge to more quickly become a fluent Japanese speaker.
+Одна из главных проблем в изучении Японского языка - это запоминание кандзи и пополнение лексикона.
+Хотя обычные чтение и запись день ото дня могут сработать, чем больше кандзи ты знаешь,
+тем сложнее это становится и все больше времени требуется, чтобы повторить их все.
+Подходящие инструменты могут помочь вам запомнить эти огромные объемы знаний, чтобы быстро овладеть Японским языком.
 
-Kakugo is one of these tools. It helps learning and revising kanji and vocabulary in an efficient manner. It uses Spaced Repetition in a unique way that adapts to the user's pace. If you only have time to revise 30 kanji every day, or if you can revise as much as 100 kanji every day, Kakugo will adapt and test you on the right kanji at the right time for you to memorize them. There is no "kanji of the day" list to revise, you can start and finish a session whenever you feel like it.
+Kakugo - один из этих инструментов: помогает эффективно учить и повторять кандзи и лексику.
+Оно использует интервальные повторения уникальным способом, который подстраивается под темп обучения пользователя.
+Если у вас есть время повторять только 30 кандзи каждый день или если вы можете повторять до 100 кандзи каждый день,
+Kakugo адаптируется и протестирует вас на правильные кандзи в нужное время, чтобы вы могли их запомнить.
+Списка повторения "кандзи дня" - нет, вы можете начинать и заканчивать сеанс, когда вам захочется.
 
-Kakugo also features a wide variety of tests to help you find the best ways that will help you learn Japanese.
+Kakugo также предоставляет широкий набор тестов, чтобы помочь вам найти лучшие способы, которые помогут вам выучить Японский язык.
 
-Features
+Возможности
 ========
 
-Features include:
+Возможности включают:
 
-- Hiragana and Katakana quizzes
-- Kanji quizzes by reading and meaning
-- Kanji test by part composition
-- Kanji writing test
-- Vocabulary quizzes by reading and meaning
-- Unique spaced repetition formula that adapts to your own learning pace
-- Unlimited quiz sessions that allow you to take a quiz at any time, for however long you want, useful to efficiently spend commuting time
-- Show similar-looking kanji in answers to teach you the differences
-- Kanji and vocabulary sorted by JLPT level
-- Clicking on kanji opens `aedict3 <https://play.google.com/store/apps/details?id=sk.baka.aedict3>`_ (a non-free Japanese dictionary) or `jisho.org <https://jisho.org>`_
-- Optimized tablet support
-- Open source
-- No ads
-- No internet access required
-- Supported languages: English, French, Spanish, German
-- More to come
+- Викторины по хирагане и катакане
+- Викторины по чтению и значению кандзи
+- Тест по составлению кандзи
+- Тест по написанию кандзи
+- Викторины по чтению и значению лексики
+- Уникальная формула интервального повторения, которая адаптируется под ваш собственный темп обучения
+- Отсутствие ограничений по количеству сеансов и длительности викторин, начинайте их в любое время - полезно для эффективного времяпрепровождения в дороге
+- Показ похожих по написанию кандзи в ответах, чтобы научить вас различиям
+- Кандзи и лексика отсортированы по уровню JLPT
+- Нажатие на кандзи открывает `aedict3 <https://play.google.com/store/apps/details?id=sk.baka.aedict3>`_ (не бесплатный словарь Японского) или `jisho.org <https://jisho.org>`_
+- Оптимизированная поддержка планшетов
+- Открытый исходный код
+- Отсутствие рекламы
+- Доступ в интернет не требуется
+- Поддерживаемые языки: Английский, Французский, Испанский, Немецкий
+- Дальше - больше
 
-Privacy
+Конфиденциальность
 =======
 
-This app does not collect any personal data, only your progression and settings
-is saved on your device. No data is ever uploaded on the Internet, this app does
-not use the Internet access.
+Это приложение не собирает никаких персональных данных, на вашем устройстве сохраняются только ваш прогресс и настройки.
+Никакие данные никогда не загружаются в Интернет, это приложение не использует доступ в Интернет.
 
-Credits
+Ресурсы
 =======
 
-- The kanji quizzes are based on `kanjidic <http://www.edrdg.org/kanjidic/kanjidic.html>`_.
-- The vocabulary quizzes are based on `JMdict <http://www.edrdg.org/jmdict/j_jmdict.html>`_.
-- The kanji similarity data comes from `a study from Dr. Lars Yencken <http://lars.yencken.org/datasets/phd/>`_.
-- The kanji composition and drawing database comes from `KanjiVG <https://kanjivg.tagaini.net/>`_.
-- The JLPT classification data comes from `Jonathan Waller <https://www.tanos.co.uk/jlpt/>`_.
-- The app icon font is `Nagayama Kai <https://www.freejapanesefont.com/nagayama-kai-calligraphy-font-download/>`_.
-- The app title font is `Fonters <https://www.dafont.com/fonters.font>`_.
+- Викторины по кандзи основаны на `kanjidic <http://www.edrdg.org/kanjidic/kanjidic.html>`_.
+- Викторины по лексике основаны на `JMdict <http://www.edrdg.org/jmdict/j_jmdict.html>`_.
+- Данные о сходстве кандзи взяты из `исследования доктора Ларса Йенкена <http://lars.yencken.org/datasets/phd/>`_.
+- База данных состава и написания кандзи взята из `KanjiVG <https://kanjivg.tagaini.net/>`_.
+- Данные классификации JLPT получены от `Джонатана Уоллера <https://www.tanos.co.uk/jlpt/>`_.
+- Шрифт иконки приложения - `Nagayama Kai <https://www.freejapanesefont.com/nagayama-kai-calligraphy-font-download/>`_.
+- Шрифт заголовка приложения - `Fonters <https://www.dafont.com/fonters.font>`_.
 
-License
+Лицензия
 =======
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+Эта программа является свободным программным обеспечением:
+вы можете распространять ее и/или изменять в соответствии с условиями
+Открытого лицензионного соглашения GNU, опубликованной Фондом свободного программного обеспечения,
+версии 3 или любой более поздней версии.
 
-Donations
+Пожертвования
 =========
 
-If you like this project and would like to thank me, I am open to donations. Do
-not forget to donate to the projects listed above from which most of the work
-comes.
+Если вам нравится данный проект и вы хотели бы отблагодарить меня, я открыт для пожертвований.
+Не забудьте также пожертвовать перечисленным выше проектам, от которых исходит большая часть работы.
 
-|Donate|_ with PayPal.
+|Donate|_ через PayPal.
 
-Or if you prefer Bitcoin donations, here is my address: 12bnT7epKmf9ztkAeuM8dHCcoc76r9rgVX
+Или если вы предпочитаете пожертвования через Bitcoin, вот мой адрес: 12bnT7epKmf9ztkAeuM8dHCcoc76r9rgVX
 
-.. |Donate| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
-.. _Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MACMBD35R2BB6&currency_code=EUR
+.. |Donate| image:: https://www.paypalobjects.com/ru_RU/i/btn/btn_donate_LG.gif
+.. _Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MACMBD35R2BB6&currency_code=RUB
