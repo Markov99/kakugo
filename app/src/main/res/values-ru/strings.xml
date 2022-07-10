@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="word"><font size="30">語彙</font>\nVOCABULAIRE</string>
-    <string name="stats"><font size="30">進歩</font>\nPROGRÈS</string>
-    <string name="hiragana_selection">Sélection des hiragana</string>
-    <string name="katakana_selection">Sélection des katakana</string>
-    <string name="kanji_selection">Sélection des kanji</string>
-    <string name="word_selection">Sélection des mots</string>
-    <string name="select_all">Tout sélectioner</string>
-    <string name="select_none">Tout désélectionner</string>
-    <string name="autoselect_from_kanji">Sélectionner les mots automatiquement</string>
-    <string name="import_selection">Importer une sélection</string>
-    <string name="database_error">Erreur de base de données</string>
-    <string name="custom_test">Test personalisé</string>
-    <string name="select_test_types">Sélectionnez le type de question désiré:</string>
-    <string name="select_at_least_one_type">Vous devez sélectionner au moins un type de question.</string>
+    <string name="word"><font size="30">語彙</font>\nЛЕКСИКА</string>
+    <string name="stats"><font size="30">進歩</font>\nСТАТИСТИКА</string>
+    <string name="hiragana_selection">Выбор хираганы</string>
+    <string name="katakana_selection">Выбор катаканы</string>
+    <string name="kanji_selection">Выбор кандзи</string>
+    <string name="word_selection">Выбор слов</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="select_none">Отменить выбор всего</string>
+    <string name="autoselect_from_kanji">Выбрать слова автоматически</string>
+    <string name="import_selection">Импортировать выбор</string>
+    <string name="database_error">Ошибка базы данных</string>
+    <string name="custom_test">Персонализированный тест</string>
+    <string name="select_test_types">Выберите нужные типы вопросов:</string>
+    <string name="select_at_least_one_type">Вы должны выбрать хотя бы один тип вопроса.</string>
 
     <string name="hiragana_to_romaji">Quizz hiragana à romaji (ひ→hi)</string>
     <string name="romaji_to_hiragana">Quizz romaji à hiragana (hi→ひ)</string>
@@ -27,15 +27,15 @@
 
     <string name="kanji_to_reading">Quizz kanji à lecture (日→ひ)</string>
     <string name="reading_to_kanji">Quizz lecture à kanji (ひ→日)</string>
-    <string name="kanji_to_meaning">Quizz kanji à sens (日→jour)</string>
-    <string name="meaning_to_kanji">Quizz sens à kanji (jour→日)</string>
+    <string name="kanji_to_meaning">Quizz kanji à sens (日→день)</string>
+    <string name="meaning_to_kanji">Quizz sens à kanji (день→日)</string>
     <string name="kanji_composition">Composition de kanji (休→亻+木)</string>
     <string name="kanji_drawing">Dessin de kanji</string>
 
     <string name="word_to_reading">Quizz mot à lecture (日の出→ひので)</string>
     <string name="reading_to_word">Quizz lecture à mot (ひので→日の出)</string>
-    <string name="word_to_meaning">Quizz mot à sens (日の出→lever de soleil)</string>
-    <string name="meaning_to_word">Quizz sens à mot (lever de soleil→日の出)</string>
+    <string name="word_to_meaning">Quizz mot à sens (日の出→восход солнца)</string>
+    <string name="meaning_to_word">Quizz sens à mot (восход солнца→日の出)</string>
 
     <string name="hiragana_to_romaji_title">Quizz hiragana à romaji</string>
     <string name="romaji_to_hiragana_title">Quizz romaji à hiragana</string>
@@ -59,72 +59,72 @@
     <string name="word_to_meaning_title">Quizz mot à sens</string>
     <string name="meaning_to_word_title">Quizz sens à mot</string>
 
-    <string name="sure">Sûr</string>
-    <string name="maybe">Pas sûr</string>
-    <string name="dont_know">Ne sait pas</string>
-    <string name="score_string">Score de session: %1$d/%2$d</string>
-    <string name="jlpt_search">Recherche</string>
-    <string name="search_kanji_hint">Rechercher un kanji&#8230;</string>
-    <string name="confirm_test_stop_title">Mettre fin à la session</string>
-    <string name="confirm_test_stop_message">Étes-vous sûr de vouloir arrêter cette session ?</string>
-    <string name="enable_a_few_items">Vous devez activer au moins 10 éléments pour lancer une session</string>
-    <string name="initializing_kanji_db">Initialisation de la base de données</string>
-    <string name="autoselecting_words">Sélection automatique des mots à partir des kanji en cours</string>
-    <string name="failed_to_init_db">Échec d\'initialisation de la base de données: %1$s</string>
-    <string name="info_button">Afficher les détails</string>
-    <string name="next">Suivant</string>
-    <string name="hint">Indice</string>
-    <string name="save_current_selection">Sauvegarder la sélection courrante</string>
-    <string name="load_selection">Charger une sélection</string>
-    <string name="selection_presentation">%1$s (%2$d éléments)</string>
-    <string name="delete">Supprimer</string>
-    <string name="loaded_selection">Sélection \"%1$s\" chargée</string>
-    <string name="deleted_selection">Sélection \"%1$s\" supprimée</string>
-    <string name="saved_selection">Sélection courrante sauvegardée en \"%1$s\"</string>
-    <string name="answerDone">Fini</string>
-    <string name="enter_name_of_selection">Entrez le nom de cette sélection</string>
-    <string name="override_selection_title">Sélection automatique du vocabulaire</string>
-    <string name="override_selection_msg">Voulez-vous selectionner les mots correspondants aux kanji sélectionnés ?\nCeci écrasera votre sélection de vocabulaire actuelle.</string>
-    <string name="could_not_import_file">Impossible d\'importer le fichier: %1$s</string>
-    <string name="import_kanji_help">Cette fonctionalité permet d\'importer une sélection de kanji à partir d\'un fichier. Le fichier doit contenir un kanji par ligne. Les kanji seront ajoutés à la sélection courrante.</string>
-    <string name="import_words_help">Cette fonctionalité permet d\'importer une sélection de mots à partir d\'un fichier. Le fichier doit contenir un mot par ligne. Les mots seront ajoutés à la sélection courrante.</string>
-    <string name="additional_kanji">Kanji additionnels</string>
-    <string name="jlpt_level_n">JLPT niveau %1$s</string>
-    <string name="rtk_index_range">Index %1$s+</string>
-    <string name="rtk6_index_range">Index %1$s+</string>
-    <string name="search_word_hint">Rechercher un mot&#8230;</string>
-    <string name="word_title">Vocabulaire</string>
-    <string name="enable_dark_theme">Activer le thème sombre</string>
-    <string name="settings"><font size="30">設定</font>\nPARAMÈTRES</string>
-    <string name="title_activity_main_settings">Paramètres</string>
-    <string name="pref_cat_appearance">Apparance</string>
-    <string name="pref_cat_behavior">Behavior</string>
-    <string name="pref_cat_language">Langue</string>
-    <string name="pref_cat_classification">Classification</string>
-    <string name="pref_cat_about">À propos</string>
-    <string name="will_update_later">Pris en compte lorsque vous quittez les paramètres</string>
-    <string name="dictionary_language">Langue du dictionnaire</string>
-    <string name="lang_system_default">Langue du système</string>
-    <string name="kanji_classification">Classification des kanji</string>
-    <string name="use_custom_font">Utiliser une police de caractères personalisée</string>
-    <string name="pick_custom_font">Sélectionner une police de caractères japonaise</string>
-    <string name="single_button_off_summary">Deux boutons \"sûr\" et \"pas sûr\" vont apparaitre</string>
-    <string name="single_button_on_summary">Une pression longue sur une réponse la validera en \"pas sûr\"</string>
-    <string name="single_button_mode">Mode bouton unique</string>
-    <string name="hide_answers_off_summary">Les réponses s\'afficheront en même temps que la question</string>
-    <string name="hide_answers_on_summary">Vous devrez cliquer sur un bouton pour afficher les réponses</string>
-    <string name="hide_answers">Cacher les réponses</string>
-    <string name="show_answers">Afficher les réponses</string>
-    <string name="failed_to_load_font">Impossible de charger la police: %s</string>
-    <string name="failed_to_load_resource">Impossible de charger la ressource: %s</string>
-    <string name="keep_screen_on_summary">Garder l\'écran éclairé pendant les exercices</string>
-    <string name="keep_screen_on">Garder l\'écran allumé</string>
+    <string name="sure">Уверен</string>
+    <string name="maybe">Не уверен</string>
+    <string name="dont_know">Не знаю</string>
+    <string name="score_string">Счет сеанса: %1$d/%2$d</string>
+    <string name="jlpt_search">Поиск</string>
+    <string name="search_kanji_hint">Поиск кандзи&#8230;</string>
+    <string name="confirm_test_stop_title">Завершить сеанс</string>
+    <string name="confirm_test_stop_message">Вы уверены, что хотите завершить этот сеанс?</string>
+    <string name="enable_a_few_items">Для начала сеанса необходимо включить не менее 10 элементов</string>
+    <string name="initializing_kanji_db">Инициализация базы данных</string>
+    <string name="autoselecting_words">Автоматический выбор слов в зависимости от выбранных кандзи</string>
+    <string name="failed_to_init_db">Ошибка инициализации базы данных: %1$s</string>
+    <string name="info_button">Показать подробности</string>
+    <string name="next">Далее</string>
+    <string name="hint">Подсказка</string>
+    <string name="save_current_selection">Сохранить текущий выбор</string>
+    <string name="load_selection">Загрузить выбор</string>
+    <string name="selection_presentation">%1$s (%2$d элементов)</string>
+    <string name="delete">Удалить</string>
+    <string name="loaded_selection">Выбор загружен: \"%1$s\"</string>
+    <string name="deleted_selection">Выбор удален: \"%1$s\"</string>
+    <string name="saved_selection">Текущий выбор сохранен как \"%1$s\"</string>
+    <string name="answerDone">Готово</string>
+    <string name="enter_name_of_selection">Введите название для этого профиля</string>
+    <string name="override_selection_title">Автоматический выбор слов</string>
+    <string name="override_selection_msg">Вы хотите выбрать слова в зависимости от выбранных кандзи? Ваш текущий выбор будет утерян.</string>
+    <string name="could_not_import_file">Не удалось импортировать файл: %1$s</string>
+    <string name="import_kanji_help">Эта функция позволяет импортировать выбор кандзи из файла. Файл должен содержать по одному кандзи в строке. Кандзи будут добавлены к текущему выбору.</string>
+    <string name="import_words_help">Эта функция позволяет импортировать выбор слов из файла. Файл должен содержать по одному слову в строке. Слова будут добавлены к текущему выбору.</string>
+    <string name="additional_kanji">Дополнительные кандзи</string>
+    <string name="jlpt_level_n">JLPT %1$s уровня</string>
+    <string name="rtk_index_range">Индексы %1$s+</string>
+    <string name="rtk6_index_range">Индексы %1$s+</string>
+    <string name="search_word_hint">Поиск слова&#8230;</string>
+    <string name="word_title">Лексика</string>
+    <string name="enable_dark_theme">Включить темную тему</string>
+    <string name="settings"><font size="30">設定</font>\nНАСТРОЙКИ</string>
+    <string name="title_activity_main_settings">Настройки</string>
+    <string name="pref_cat_appearance">Внешний вид</string>
+    <string name="pref_cat_behavior">Поведение</string>
+    <string name="pref_cat_language">Язык</string>
+    <string name="pref_cat_classification">Классификация</string>
+    <string name="pref_cat_about">Информация</string>
+    <string name="will_update_later">Обновится при выходе из экрана настроек</string>
+    <string name="dictionary_language">Язык словаря</string>
+    <string name="lang_system_default">Язык системы по умолчанию</string>
+    <string name="kanji_classification">Классификация кандзи</string>
+    <string name="use_custom_font">Использовать пользовательский шрифт</string>
+    <string name="pick_custom_font">Выбрать японский шрифт</string>
+    <string name="single_button_off_summary">Появятся две кнопки: \"уверен\" и \"не уверен\"</string>
+    <string name="single_button_on_summary">Длительное нажатие на ответ будет засчитано как \"не уверен\"</string>
+    <string name="single_button_mode">Режим одной кнопки</string>
+    <string name="hide_answers_off_summary">Ответы будут отображаться одновременно с вопросом</string>
+    <string name="hide_answers_on_summary">Вам нужно будет нажать на кнопку, чтобы показать ответы</string>
+    <string name="hide_answers">Скрыть ответы</string>
+    <string name="show_answers">Показать ответы</string>
+    <string name="failed_to_load_font">Не удалось загрузить шрифт: %s</string>
+    <string name="failed_to_load_resource">Не удалось загрузить ресурс: %s</string>
+    <string name="keep_screen_on_summary">Держать экран включенным во время упражнений</string>
+    <string name="keep_screen_on">Не выключать экран</string>
 
-    <string name="title_about">À propos de Kakugo</string>
+    <string name="title_about">О Kakugo</string>
     <string name="about_text"><![CDATA[
-        <p>Kakugo est une application pour apprendre le Japonais. Version %1$s (%2$d).</p>
+        <p>Kakugo - это приложение для изучения Японского языка. Версия %1$s (%2$d).</p>
 
-        <p>Elle est open-source et disponible sur <a href="https://github.com/blastrock/kakugo/">github</a> sous la licence GPLv3.</p>
+        <p>Исходный код доступен на <a href="https://github.com/blastrock/kakugo/">github</a> под лицензией GPLv3.</p>
 
         <p>Le dictionnaire de kanji est basé sur <a href="http://www.edrdg.org/kanjidic/kanjidic.html">kanjidic</a>.</p>
         <p>Les traductions allemandes des kanji viennent de l\'<a href="https://www.kanjistudyapp.com/">app Kanji Study</a> de Chase Colburn.</p>
@@ -138,15 +138,15 @@
         <p>Kakugo  Copyright &#169; 2019  Philippe Daouadi</p>
     ]]></string>
 
-    <string name="title_stats">Progrès</string>
-    <string name="stats_no_data">Aucune données disponibles pour l\'instant. Votre progrès apparaîtra ici après avoir fait quelques exercices.</string>
-    <string name="stats_items_answered">Réponses données</string>
-    <string name="stats_correct_answers">Réponses correctes</string>
-    <string name="stats_wrong_answers">Mauvaises réponses</string>
+    <string name="title_stats">Статистика</string>
+    <string name="stats_no_data">На данный момент данных нет. Ваш прогресс появится здесь после выполнения некоторых упражнений.</string>
+    <string name="stats_items_answered">Ответов дано</string>
+    <string name="stats_correct_answers">Верных ответов</string>
+    <string name="stats_wrong_answers">Неверных ответов</string>
 
-    <string name="changelog">Changelog</string>
+    <string name="changelog">Список изменений</string>
     <string name="changelog_contents"><![CDATA[
-        <h3>Nouveautés en 1.36</h3>
+        <h3>Нововведения в версии 1.36</h3>
 
         <br/>- Ajout des traductions allemandes de kanji de l\'app Kanji Study (un grand merci à Chase Colburn)
         <br/>- Ajout des traductions allemandes de vocabulaire de Kanjidic
