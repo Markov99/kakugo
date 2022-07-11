@@ -7,57 +7,57 @@
     <string name="kanji_selection">Выбор кандзи</string>
     <string name="word_selection">Выбор слов</string>
     <string name="select_all">Выбрать все</string>
-    <string name="select_none">Отменить выбор всего</string>
+    <string name="select_none">Снять выбор</string>
     <string name="autoselect_from_kanji">Выбрать слова автоматически</string>
     <string name="import_selection">Импортировать выбор</string>
     <string name="database_error">Ошибка базы данных</string>
     <string name="custom_test">Персонализированный тест</string>
     <string name="select_test_types">Выберите нужные типы вопросов:</string>
-    <string name="select_at_least_one_type">Вы должны выбрать хотя бы один тип вопроса.</string>
+    <string name="select_at_least_one_type">Необходимо выбрать хотя бы один тип вопроса.</string>
 
-    <string name="hiragana_to_romaji">Quizz hiragana à romaji (ひ→hi)</string>
-    <string name="romaji_to_hiragana">Quizz romaji à hiragana (hi→ひ)</string>
-    <string name="hiragana_to_romaji_typing">Écriture d\'hiragana en romaji (ひ→hi)</string>
-    <string name="hiragana_drawing">Dessin d\'hiragana</string>
+    <string name="hiragana_to_romaji">Тест хираганы по ромадзи (ひ→hi)</string>
+    <string name="romaji_to_hiragana">Тест ромадзи по хирагане (hi→ひ)</string>
+    <string name="hiragana_to_romaji_typing">Написание ромадзи по хирагане (ひ→hi)</string>
+    <string name="hiragana_drawing">Начертание хираганы по ромадзи (hi→ひ)</string>
 
-    <string name="katakana_to_romaji">Quizz katakana à romaji (ヒ→hi)</string>
-    <string name="romaji_to_katakana">Quizz romaji à katakana (hi→ヒ)</string>
-    <string name="katakana_to_romaji_typing">Écriture de katakana en romaji (ヒ→hi)</string>
-    <string name="katakana_drawing">Dessin de katakana</string>
+    <string name="katakana_to_romaji">Тест катаканы по ромадзи (ヒ→hi)</string>
+    <string name="romaji_to_katakana">Тест ромадзи по катакане (hi→ヒ)</string>
+    <string name="katakana_to_romaji_typing">Написание ромадзи по катакане (ヒ→hi)</string>
+    <string name="katakana_drawing">Начертание катаканы по ромадзи (hi→ヒ)</string>
 
-    <string name="kanji_to_reading">Quizz kanji à lecture (日→ひ)</string>
-    <string name="reading_to_kanji">Quizz lecture à kanji (ひ→日)</string>
-    <string name="kanji_to_meaning">Quizz kanji à sens (日→день)</string>
-    <string name="meaning_to_kanji">Quizz sens à kanji (день→日)</string>
-    <string name="kanji_composition">Composition de kanji (休→亻+木)</string>
-    <string name="kanji_drawing">Dessin de kanji</string>
+    <string name="kanji_to_reading">Тест кандзи по чтениям (日→ひ)</string>
+    <string name="reading_to_kanji">Тест чтений по кандзи (ひ→日)</string>
+    <string name="kanji_to_meaning">Тест кандзи по значениям (日→день)</string>
+    <string name="meaning_to_kanji">Тест значений по кандзи (день→日)</string>
+    <string name="kanji_composition">Составление кандзи (休→亻+木)</string>
+    <string name="kanji_drawing">Начертание кандзи по чтениям и значениям (日→день)</string>
 
-    <string name="word_to_reading">Quizz mot à lecture (日の出→ひので)</string>
-    <string name="reading_to_word">Quizz lecture à mot (ひので→日の出)</string>
-    <string name="word_to_meaning">Quizz mot à sens (日の出→восход солнца)</string>
-    <string name="meaning_to_word">Quizz sens à mot (восход солнца→日の出)</string>
+    <string name="word_to_reading">Тест слов по чтениям (日の出→ひので)</string>
+    <string name="reading_to_word">Тест чтений по словам (ひので→日の出)</string>
+    <string name="word_to_meaning">Тест слов по значениям (日の出→восход солнца)</string>
+    <string name="meaning_to_word">Тест значений по словам (восход солнца→日の出)</string>
 
-    <string name="hiragana_to_romaji_title">Quizz hiragana à romaji</string>
-    <string name="romaji_to_hiragana_title">Quizz romaji à hiragana</string>
-    <string name="hiragana_to_romaji_typing_title">Écriture d\'hiragana en romaji</string>
-    <string name="hiragana_drawing_title">Dessin d\'hiragana</string>
+    <string name="hiragana_to_romaji_title">Тест хираганы по ромадзи</string>
+    <string name="romaji_to_hiragana_title">Тест ромадзи по хирагане</string>
+    <string name="hiragana_to_romaji_typing_title">Написание ромадзи по хирагане</string>
+    <string name="hiragana_drawing_title">Начертание хираганы по ромадзи</string>
 
-    <string name="katakana_to_romaji_title">Quizz katakana à romaji</string>
-    <string name="romaji_to_katakana_title">Quizz romaji à katakana</string>
-    <string name="katakana_to_romaji_typing_title">Écriture de katakana en romaji</string>
-    <string name="katakana_drawing_title">Dessin de katakana</string>
+    <string name="katakana_to_romaji_title">Тест катаканы по ромадзи</string>
+    <string name="romaji_to_katakana_title">Тест ромадзи по катакане</string>
+    <string name="katakana_to_romaji_typing_title">Написание ромадзи по катакане</string>
+    <string name="katakana_drawing_title">Начертание катаканы по ромадзи</string>
 
-    <string name="kanji_to_reading_title">Quizz kanji à lecture</string>
-    <string name="reading_to_kanji_title">Quizz lecture à kanji</string>
-    <string name="kanji_to_meaning_title">Quizz kanji à sens</string>
-    <string name="meaning_to_kanji_title">Quizz sens à kanji</string>
-    <string name="kanji_composition_title">Composition de kanji</string>
-    <string name="kanji_drawing_title">Dessin de kanji</string>
+    <string name="kanji_to_reading_title">Тест кандзи по чтениям</string>
+    <string name="reading_to_kanji_title">Тест чтений по кандзи</string>
+    <string name="kanji_to_meaning_title">Тест кандзи по значениям</string>
+    <string name="meaning_to_kanji_title">Тест значений по кандзи</string>
+    <string name="kanji_composition_title">Составление кандзи</string>
+    <string name="kanji_drawing_title">Начертание кандзи по чтениям и значениям</string>
 
-    <string name="word_to_reading_title">Quizz mot à lecture</string>
-    <string name="reading_to_word_title">Quizz lecture à mot</string>
-    <string name="word_to_meaning_title">Quizz mot à sens</string>
-    <string name="meaning_to_word_title">Quizz sens à mot</string>
+    <string name="word_to_reading_title">Тест слов по чтениям</string>
+    <string name="reading_to_word_title">Тест чтений по словам</string>
+    <string name="word_to_meaning_title">Тест слов по значениям</string>
+    <string name="meaning_to_word_title">Тест значений по словам</string>
 
     <string name="sure">Уверен</string>
     <string name="maybe">Не уверен</string>
@@ -126,16 +126,16 @@
 
         <p>Исходный код доступен на <a href="https://github.com/blastrock/kakugo/">github</a> под лицензией GPLv3.</p>
 
-        <p>Le dictionnaire de kanji est basé sur <a href="http://www.edrdg.org/kanjidic/kanjidic.html">kanjidic</a>.</p>
-        <p>Les traductions allemandes des kanji viennent de l\'<a href="https://www.kanjistudyapp.com/">app Kanji Study</a> de Chase Colburn.</p>
-        <p>Le dictionnaire de vocabulaire est basé sur <a href="http://www.edrdg.org/jmdict/j_jmdict.html">JMdict</a>.</p>
-        <p>Les données de similarité des kanji viennent d&apos;<a href="http://lars.yencken.org/datasets/phd/">une étude du Dr. Lars Yencken</a>.</p>
-        <p>Les données de composition et de dessin de kanji viennent de <a href="https://kanjivg.tagaini.net/">KanjiVG</a>.</p>
-        <p>Les données de classification JLPT vient de <a href="https://www.tanos.co.uk/jlpt/">Jonathan Waller</a>.</p>
-        <p>La police de caractères de l\'icône de l\'application est <a href="https://www.freejapanesefont.com/nagayama-kai-calligraphy-font-download/">Nagayama Kai<a>.</p>
-        <p>La police de caractères du titres de l\'application est <a href="https://www.dafont.com/fonters.font">Fonters<a>.</p>
+        <p>Словарь кандзи основан на <a href="http://www.edrdg.org/kanjidic/kanjidic.html">kanjidic</a>.</p>
+        <p>Перевод кандзи на немецкий язык взят из приложения <a href="https://www.kanjistudyapp.com/">Kanji Study</a> Чейза Колберна.</p>
+        <p>Словарь лексики основан на <a href="http://www.edrdg.org/jmdict/j_jmdict.html">JMdict</a>.</p>
+        <p>Данные о сходстве кандзи взяты из <a href="http://lars.yencken.org/datasets/phd/">исследования</a> доктора Ларса Йенкена.</p>
+        <p>Данные состава и написания кандзи взяты из <a href="https://kanjivg.tagaini.net/">KanjiVG</a>.</p>
+        <p>Данные классификации JLPT получены от <a href="https://www.tanos.co.uk/jlpt/">Джонатана Уоллера</a>.</p>
+        <p>Шрифт иконки приложения - <a href="https://www.freejapanesefont.com/nagayama-kai-calligraphy-font-download/">Nagayama Kai<a>.</p>
+        <p>Шрифт заголовка приложения - <a href="https://www.dafont.com/fonters.font">Fonters<a>.</p>
 
-        <p>Kakugo  Copyright &#169; 2019  Philippe Daouadi</p>
+        <p>Kakugo &#169; Филипп Дауади, 2019.</p>
     ]]></string>
 
     <string name="title_stats">Статистика</string>
@@ -145,16 +145,4 @@
     <string name="stats_wrong_answers">Неверных ответов</string>
 
     <string name="changelog">Список изменений</string>
-    <string name="changelog_contents"><![CDATA[
-        <h3>Нововведения в версии 1.36</h3>
-
-        <br/>- Ajout des traductions allemandes de kanji de l\'app Kanji Study (un grand merci à Chase Colburn)
-        <br/>- Ajout des traductions allemandes de vocabulaire de Kanjidic
-        <br/>- Ajout des traductions allemandes de l\'application du contributeur Moritz Bandemer
-        <!-- -->
-        <br/>- La liste de mots a été reclassifiée par niveau de JLPT en utilisant les données de Jonathan Waller
-        <br/>- Les mots écrits habituellement en kana sont maintenant écrits en kana
-        <br/>- Les tests de lecture de mots n\'incluent plus les mots écrits en kana
-        <br/>- Ajout de l\'import de mots à partir d\'un fichier
-    ]]></string>
 </resources>
