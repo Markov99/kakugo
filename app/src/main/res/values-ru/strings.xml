@@ -9,11 +9,11 @@
     <string name="select_all">Выбрать все</string>
     <string name="select_none">Снять выбор</string>
     <string name="autoselect_from_kanji">Выбрать слова автоматически</string>
-    <string name="import_selection">Импортировать выбор</string>
+    <string name="import_selection">Импортировать набор</string>
     <string name="database_error">Ошибка базы данных</string>
-    <string name="custom_test">Персонализированный тест</string>
-    <string name="select_test_types">Выберите нужные типы вопросов:</string>
-    <string name="select_at_least_one_type">Необходимо выбрать хотя бы один тип вопроса.</string>
+    <string name="custom_test">Персонализированное упражнение</string>
+    <string name="select_test_types">Выберите типы упражнений:</string>
+    <string name="select_at_least_one_type">Необходимо выбрать хотя бы один тип упражнения.</string>
 
     <string name="hiragana_to_romaji">Тест хираганы по ромадзи (ひ→hi)</string>
     <string name="romaji_to_hiragana">Тест ромадзи по хирагане (hi→ひ)</string>
@@ -32,10 +32,10 @@
     <string name="kanji_composition">Составление кандзи (休→亻+木)</string>
     <string name="kanji_drawing">Начертание кандзи по чтениям и значениям (日→день)</string>
 
-    <string name="word_to_reading">Тест слов по чтениям (日の出→ひので)</string>
-    <string name="reading_to_word">Тест чтений по словам (ひので→日の出)</string>
-    <string name="word_to_meaning">Тест слов по значениям (日の出→восход солнца)</string>
-    <string name="meaning_to_word">Тест значений по словам (восход солнца→日の出)</string>
+    <string name="word_to_reading">Тест слова по чтению (日の出→ひので)</string>
+    <string name="reading_to_word">Тест чтения по слову (ひので→日の出)</string>
+    <string name="word_to_meaning">Тест слова по значению (日の出→восход солнца)</string>
+    <string name="meaning_to_word">Тест значения по слову (восход солнца→日の出)</string>
 
     <string name="hiragana_to_romaji_title">Тест хираганы по ромадзи</string>
     <string name="romaji_to_hiragana_title">Тест ромадзи по хирагане</string>
@@ -54,40 +54,40 @@
     <string name="kanji_composition_title">Составление кандзи</string>
     <string name="kanji_drawing_title">Начертание кандзи по чтениям и значениям</string>
 
-    <string name="word_to_reading_title">Тест слов по чтениям</string>
-    <string name="reading_to_word_title">Тест чтений по словам</string>
-    <string name="word_to_meaning_title">Тест слов по значениям</string>
-    <string name="meaning_to_word_title">Тест значений по словам</string>
+    <string name="word_to_reading_title">Тест слова по чтению</string>
+    <string name="reading_to_word_title">Тест чтения по слову</string>
+    <string name="word_to_meaning_title">Тест слова по значению</string>
+    <string name="meaning_to_word_title">Тест значения по слову</string>
 
     <string name="sure">Уверен</string>
     <string name="maybe">Не уверен</string>
     <string name="dont_know">Не знаю</string>
-    <string name="score_string">Счет сеанса: %1$d/%2$d</string>
+    <string name="score_string">Счет сессии: %1$d/%2$d</string>
     <string name="jlpt_search">Поиск</string>
     <string name="search_kanji_hint">Поиск кандзи&#8230;</string>
-    <string name="confirm_test_stop_title">Завершить сеанс</string>
-    <string name="confirm_test_stop_message">Вы уверены, что хотите завершить этот сеанс?</string>
-    <string name="enable_a_few_items">Для начала сеанса необходимо включить не менее 10 элементов</string>
+    <string name="confirm_test_stop_title">Завершить сессию</string>
+    <string name="confirm_test_stop_message">Вы уверены, что хотите завершить текущую сессию?</string>
+    <string name="enable_a_few_items">Чтобы начать сессию необходимо выбрать не менее 10 элементов</string>
     <string name="initializing_kanji_db">Инициализация базы данных</string>
     <string name="autoselecting_words">Автоматический выбор слов в зависимости от выбранных кандзи</string>
     <string name="failed_to_init_db">Ошибка инициализации базы данных: %1$s</string>
     <string name="info_button">Показать подробности</string>
     <string name="next">Далее</string>
-    <string name="hint">Подсказка</string>
-    <string name="save_current_selection">Сохранить текущий выбор</string>
-    <string name="load_selection">Загрузить выбор</string>
+    <string name="hint">Подсказать</string>
+    <string name="save_current_selection">Сохранить текущий набор</string>
+    <string name="load_selection">Загрузить набор</string>
     <string name="selection_presentation">%1$s (%2$d элементов)</string>
     <string name="delete">Удалить</string>
-    <string name="loaded_selection">Выбор загружен: \"%1$s\"</string>
-    <string name="deleted_selection">Выбор удален: \"%1$s\"</string>
-    <string name="saved_selection">Текущий выбор сохранен как \"%1$s\"</string>
+    <string name="loaded_selection">Набор загружен: \"%1$s\"</string>
+    <string name="deleted_selection">Набор удален: \"%1$s\"</string>
+    <string name="saved_selection">Текущий набор сохранен как \"%1$s\"</string>
     <string name="answerDone">Готово</string>
-    <string name="enter_name_of_selection">Введите название для этого профиля</string>
+    <string name="enter_name_of_selection">Введите название для этого наборa</string>
     <string name="override_selection_title">Автоматический выбор слов</string>
     <string name="override_selection_msg">Вы хотите выбрать слова в зависимости от выбранных кандзи? Ваш текущий выбор будет утерян.</string>
     <string name="could_not_import_file">Не удалось импортировать файл: %1$s</string>
-    <string name="import_kanji_help">Эта функция позволяет импортировать выбор кандзи из файла. Файл должен содержать по одному кандзи в строке. Кандзи будут добавлены к текущему выбору.</string>
-    <string name="import_words_help">Эта функция позволяет импортировать выбор слов из файла. Файл должен содержать по одному слову в строке. Слова будут добавлены к текущему выбору.</string>
+    <string name="import_kanji_help">Эта функция позволяет импортировать набор кандзи из файла. Файл должен содержать по одному кандзи в строке. Кандзи будут добавлены к текущему выбору.</string>
+    <string name="import_words_help">Эта функция позволяет импортировать набор слов из файла. Файл должен содержать по одному слову в строке. Слова будут добавлены к текущему выбору.</string>
     <string name="additional_kanji">Дополнительные кандзи</string>
     <string name="jlpt_level_n">JLPT %1$s уровня</string>
     <string name="rtk_index_range">Индексы %1$s+</string>
@@ -122,7 +122,7 @@
 
     <string name="title_about">О Kakugo</string>
     <string name="about_text"><![CDATA[
-        <p>Kakugo - это приложение для изучения Японского языка. Версия %1$s (%2$d).</p>
+        <p>Kakugo - это приложение для изучения японского языка. Версия %1$s (%2$d).</p>
 
         <p>Исходный код доступен на <a href="https://github.com/blastrock/kakugo/">github</a> под лицензией GPLv3.</p>
 
@@ -139,8 +139,8 @@
     ]]></string>
 
     <string name="title_stats">Статистика</string>
-    <string name="stats_no_data">На данный момент данных нет. Ваш прогресс появится здесь после выполнения некоторых упражнений.</string>
-    <string name="stats_items_answered">Ответов дано</string>
+    <string name="stats_no_data">На данный момент данных нет. Ваш прогресс появится здесь после выполнения нескольких упражнений.</string>
+    <string name="stats_items_answered">Дано ответов</string>
     <string name="stats_correct_answers">Верных ответов</string>
     <string name="stats_wrong_answers">Неверных ответов</string>
 
