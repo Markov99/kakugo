@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="hiragana"><font size="30">ひらがな</font>\nХИРАГАНА</string>
+    <string name="katakana"><font size="30">カタカナ</font>\nКАТАКАНА</string>
+    <string name="kanji"><font size="30">漢字</font>\nКАНДЗИ</string>
     <string name="word"><font size="30">語彙</font>\nЛЕКСИКА</string>
     <string name="stats"><font size="30">進歩</font>\nСТАТИСТИКА</string>
     <string name="hiragana_selection">Выбор хираганы</string>
@@ -18,46 +21,46 @@
     <string name="hiragana_to_romaji">Тест хираганы по ромадзи (ひ→hi)</string>
     <string name="romaji_to_hiragana">Тест ромадзи по хирагане (hi→ひ)</string>
     <string name="hiragana_to_romaji_typing">Написание ромадзи по хирагане (ひ→hi)</string>
-    <string name="hiragana_drawing">Начертание хираганы по ромадзи (hi→ひ)</string>
+    <string name="hiragana_drawing">Начертание хираганы</string>
 
     <string name="katakana_to_romaji">Тест катаканы по ромадзи (ヒ→hi)</string>
     <string name="romaji_to_katakana">Тест ромадзи по катакане (hi→ヒ)</string>
     <string name="katakana_to_romaji_typing">Написание ромадзи по катакане (ヒ→hi)</string>
-    <string name="katakana_drawing">Начертание катаканы по ромадзи (hi→ヒ)</string>
+    <string name="katakana_drawing">Начертание катаканы</string>
 
     <string name="kanji_to_reading">Тест кандзи по чтениям (日→ひ)</string>
     <string name="reading_to_kanji">Тест чтений по кандзи (ひ→日)</string>
     <string name="kanji_to_meaning">Тест кандзи по значениям (日→день)</string>
     <string name="meaning_to_kanji">Тест значений по кандзи (день→日)</string>
     <string name="kanji_composition">Составление кандзи (休→亻+木)</string>
-    <string name="kanji_drawing">Начертание кандзи по чтениям и значениям (日→день)</string>
+    <string name="kanji_drawing">Начертание кандзи</string>
 
-    <string name="word_to_reading">Тест слова по чтению (日の出→ひので)</string>
-    <string name="reading_to_word">Тест чтения по слову (ひので→日の出)</string>
-    <string name="word_to_meaning">Тест слова по значению (日の出→восход солнца)</string>
-    <string name="meaning_to_word">Тест значения по слову (восход солнца→日の出)</string>
+    <string name="word_to_reading">Тест слов по чтениям (日の出→ひので)</string>
+    <string name="reading_to_word">Тест чтений по словам (ひので→日の出)</string>
+    <string name="word_to_meaning">Тест слов по значениям\n(日の出→восход солнца)</string>
+    <string name="meaning_to_word">Тест значений по словам\n(восход солнца→日の出)</string>
 
     <string name="hiragana_to_romaji_title">Тест хираганы по ромадзи</string>
     <string name="romaji_to_hiragana_title">Тест ромадзи по хирагане</string>
     <string name="hiragana_to_romaji_typing_title">Написание ромадзи по хирагане</string>
-    <string name="hiragana_drawing_title">Начертание хираганы по ромадзи</string>
+    <string name="hiragana_drawing_title">Начертание хираганы</string>
 
     <string name="katakana_to_romaji_title">Тест катаканы по ромадзи</string>
     <string name="romaji_to_katakana_title">Тест ромадзи по катакане</string>
     <string name="katakana_to_romaji_typing_title">Написание ромадзи по катакане</string>
-    <string name="katakana_drawing_title">Начертание катаканы по ромадзи</string>
+    <string name="katakana_drawing_title">Начертание катаканы</string>
 
     <string name="kanji_to_reading_title">Тест кандзи по чтениям</string>
     <string name="reading_to_kanji_title">Тест чтений по кандзи</string>
     <string name="kanji_to_meaning_title">Тест кандзи по значениям</string>
     <string name="meaning_to_kanji_title">Тест значений по кандзи</string>
     <string name="kanji_composition_title">Составление кандзи</string>
-    <string name="kanji_drawing_title">Начертание кандзи по чтениям и значениям</string>
+    <string name="kanji_drawing_title">Начертание кандзи</string>
 
-    <string name="word_to_reading_title">Тест слова по чтению</string>
-    <string name="reading_to_word_title">Тест чтения по слову</string>
-    <string name="word_to_meaning_title">Тест слова по значению</string>
-    <string name="meaning_to_word_title">Тест значения по слову</string>
+    <string name="word_to_reading_title">Тест слов по чтениям</string>
+    <string name="reading_to_word_title">Тест чтений по словам</string>
+    <string name="word_to_meaning_title">Тест слов по значениям</string>
+    <string name="meaning_to_word_title">Тест значений по словам</string>
 
     <string name="sure">Уверен</string>
     <string name="maybe">Не уверен</string>
@@ -82,9 +85,9 @@
     <string name="deleted_selection">Набор удален: \"%1$s\"</string>
     <string name="saved_selection">Текущий набор сохранен как \"%1$s\"</string>
     <string name="answerDone">Готово</string>
-    <string name="enter_name_of_selection">Введите название для этого наборa</string>
+    <string name="enter_name_of_selection">Введите название для текущего наборa</string>
     <string name="override_selection_title">Автоматический выбор слов</string>
-    <string name="override_selection_msg">Вы хотите выбрать слова в зависимости от выбранных кандзи? Ваш текущий выбор будет утерян.</string>
+    <string name="override_selection_msg">Автоматически выбрать слова в зависимости от выбранных кандзи?\nВаш текущий выбор будет утерян.</string>
     <string name="could_not_import_file">Не удалось импортировать файл: %1$s</string>
     <string name="import_kanji_help">Эта функция позволяет импортировать набор кандзи из файла. Файл должен содержать по одному кандзи в строке. Кандзи будут добавлены к текущему выбору.</string>
     <string name="import_words_help">Эта функция позволяет импортировать набор слов из файла. Файл должен содержать по одному слову в строке. Слова будут добавлены к текущему выбору.</string>
@@ -92,6 +95,9 @@
     <string name="jlpt_level_n">JLPT %1$s уровня</string>
     <string name="rtk_index_range">Индексы %1$s+</string>
     <string name="rtk6_index_range">Индексы %1$s+</string>
+    <string name="hiragana_title">Хирагана</string>
+    <string name="katakana_title">Катакана</string>
+    <string name="kanji_title">Кандзи</string>
     <string name="search_word_hint">Поиск слова&#8230;</string>
     <string name="word_title">Лексика</string>
     <string name="enable_dark_theme">Включить темную тему</string>
@@ -104,7 +110,7 @@
     <string name="pref_cat_about">Информация</string>
     <string name="will_update_later">Обновится при выходе из экрана настроек</string>
     <string name="dictionary_language">Язык словаря</string>
-    <string name="lang_system_default">Язык системы по умолчанию</string>
+    <string name="lang_system_default">Язык системы</string>
     <string name="kanji_classification">Классификация кандзи</string>
     <string name="use_custom_font">Использовать пользовательский шрифт</string>
     <string name="pick_custom_font">Выбрать японский шрифт</string>

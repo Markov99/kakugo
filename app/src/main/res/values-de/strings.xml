@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="hiragana"><font size="30">ひらがな</font>HIRAGANA</string>
+    <string name="katakana"><font size="30">カタカナ</font>\nKATAKANA</string>
+    <string name="kanji"><font size="30">漢字</font>\nKANJI</string>
     <string name="word"><font size="30">語彙</font>\nVOKABELN</string>
     <string name="stats"><font size="30">進歩</font>\nFORTSCHRITT</string>
     <string name="settings"><font size="30">設定</font>\nEINSTELLUNGEN</string>
@@ -32,6 +35,9 @@
     <string name="reading_to_word">Lesung zu Vokabel (ひので→日の出)</string>
     <string name="word_to_meaning">Vokabel zu Bedeutung (日の出→sunrise)</string>
     <string name="meaning_to_word">Bedeutung zu Vokabel (sunrise→日の出)</string>
+    <string name="hiragana_title">Hiragana</string>
+    <string name="katakana_title">Katakana</string>
+    <string name="kanji_title">Kanji</string>
     <string name="hiragana_to_romaji_title">Hiragana zu Romaji Quiz</string>
     <string name="romaji_to_hiragana_title">Romaji zu Hiragana</string>
     <string name="hiragana_to_romaji_typing_title">Hiragana zu Romaji Schreibung</string>
